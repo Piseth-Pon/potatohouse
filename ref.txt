@@ -1,2 +1,2 @@
-using html5 and css3
+using html5 and css5
 all images are downloaded from flaticon and unsplash
